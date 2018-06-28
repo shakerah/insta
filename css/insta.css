@@ -54,6 +54,7 @@ body{
 
 .img-responsive2{
 	width:20%;
+	box-sizing: border-box;
 }
 
 @media only screen and (max-width: 1280px) {
