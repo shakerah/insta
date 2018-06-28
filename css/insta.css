@@ -27,6 +27,11 @@ body{
 	text-align: center;
 }
 
+#app {
+	text-align: center;
+	width:50%;
+}
+
 .details{
 	width:60%;
 }
@@ -45,6 +50,10 @@ body{
 
 .img-responsive{
 	width:100%;
+}
+
+.img-responsive2{
+	width:20%;
 }
 
 @media only screen and (max-width: 1280px) {
@@ -70,4 +79,9 @@ body{
 	. img-responsive{
 		width:100%;
 	}
+
+	.img-responsive2{
+	width:40%;
+}
 	}
+
